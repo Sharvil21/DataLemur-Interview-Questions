@@ -12,3 +12,10 @@ This repository contains solution for the free SQL challenges posted on DataLemu
 | 03 | [Pages With No Likes]([https://datalemur.com/questions/sql-page-with-no-likes]) | [Solution](/Solutions/Easy/03_Pages_With_No_Likes.sql)
 | 04 | [Unfinished Parts]([https://datalemur.com/questions/tesla-unfinished-parts]) | [Solution](/Solutions/Easy/04_Unfinished_Parts.sql)
 | 05 | [Laptop Vs Mobile Viewership]([https://datalemur.com/questions/laptop-mobile-viewership]) | [Solution](/Solutions/Easy/05_Laptop_Vs_Mobile_Viewership.sql)
+
+
+#### Difficulty Level : Hard
+
+| ID | Challenge | Solution Script |
+|:------:|------------|:---------:|
+| 01 | [Active User Retention]([https://datalemur.com/questions/user-retention]) | [Solution](/Solutions/Hard/01_Active_User_Retention.sql)
