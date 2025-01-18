@@ -16,7 +16,7 @@ This repository contains solution for the free SQL challenges posted on DataLemu
 | 07 | [Teams Power Users]([https://datalemur.com/questions/teams-power-users]) | [Solution](/Solutions/Easy/07_Teams_Power_Users.sql)
 | 08 | [Duplicate Job Listings]([https://datalemur.com/questions/duplicate-job-listings]) | [Solution](/Solutions/Easy/08_Duplicate_Job_Listings.sql)
 | 09 | [Cities With Completed Trades]([https://datalemur.com/questions/completed-trades]) | [Solution](/Solutions/Easy/09_Cities_With_Completed_Trades.sql)
-
+| 10 | [Average Review Ratings]([https://datalemur.com/questions/sql-avg-review-ratings]) | [Solution](/Solutions/Easy/10_Average_Review_Ratings.sql)
 
 
 
