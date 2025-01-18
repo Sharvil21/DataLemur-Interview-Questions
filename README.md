@@ -12,8 +12,12 @@ This repository contains solution for the free SQL challenges posted on DataLemu
 | 03 | [Pages With No Likes]([https://datalemur.com/questions/sql-page-with-no-likes]) | [Solution](/Solutions/Easy/03_Pages_With_No_Likes.sql)
 | 04 | [Unfinished Parts]([https://datalemur.com/questions/tesla-unfinished-parts]) | [Solution](/Solutions/Easy/04_Unfinished_Parts.sql)
 | 05 | [Laptop Vs Mobile Viewership]([https://datalemur.com/questions/laptop-mobile-viewership]) | [Solution](/Solutions/Easy/05_Laptop_Vs_Mobile_Viewership.sql)
-| 06 | [Average Post_Hiatus Part 1]([https://datalemur.com/questions/sql-average-post-hiatus-1]) | [Solution](/Solutions/Easy/06_Average_Post_Hiatus_Part_1.sql)
+| 06 | [Average Post Hiatus Part 1]([https://datalemur.com/questions/sql-average-post-hiatus-1]) | [Solution](/Solutions/Easy/06_Average_Post_Hiatus_Part_1.sql)
 | 07 | [Teams Power Users]([https://datalemur.com/questions/teams-power-users]) | [Solution](/Solutions/Easy/07_Teams_Power_Users.sql)
+| 08 | [Duplicate Job Listings]([https://datalemur.com/questions/duplicate-job-listings]) | [Solution](/Solutions/Easy/08_Duplicate_Job_Listings.sql)
+| 09 | [Cities With Completed Trades]([https://datalemur.com/questions/completed-trades]) | [Solution](/Solutions/Easy/09_Cities_With_Completed_Trades.sql)
+
+
 
 
 #### Difficulty Level : Hard
