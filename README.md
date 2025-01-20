@@ -17,7 +17,12 @@ This repository contains solution for the free SQL challenges posted on DataLemu
 | 08 | [Duplicate Job Listings]([https://datalemur.com/questions/duplicate-job-listings]) | [Solution](/Solutions/Easy/08_Duplicate_Job_Listings.sql)
 | 09 | [Cities With Completed Trades]([https://datalemur.com/questions/completed-trades]) | [Solution](/Solutions/Easy/09_Cities_With_Completed_Trades.sql)
 | 10 | [Average Review Ratings]([https://datalemur.com/questions/sql-avg-review-ratings]) | [Solution](/Solutions/Easy/10_Average_Review_Ratings.sql)
-
+| 11 | [Well Paid Employees]([https://datalemur.com/questions/sql-well-paid-employees]) | [Solution](/Solutions/Easy/11_Well_Paid_Employees.sql)
+| 12 | [App Click-through Rate]([https://datalemur.com/questions/click-through-rate]) | [Solution](/Solutions/Easy/12_App_Click-through_Rate.sql)
+| 13 | [Second Day Confirmation]([https://datalemur.com/questions/second-day-confirmation]) | [Solution](/Solutions/Easy/13_Second_Day_Confirmation.sql)
+| 14 | [IBM db2 Product Analytics]([https://datalemur.com/questions/sql-ibm-db2-product-analytics]) | [Solution](/Solutions/Easy/14_IBM_db2_Product_Analytics.sql)
+| 15 | [Cards Issued Difference]([https://datalemur.com/questions/cards-issued-difference]) | [Solution](/Solutions/Easy/15_Cards_Issued_Difference.sql)
+| 16 | [Compressed Mean]([https://datalemur.com/questions/alibaba-compressed-mean]) | [Solution](/Solutions/Easy/16_Compressed_Mean.sql)
 
 
 #### Difficulty Level : Hard
