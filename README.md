@@ -23,6 +23,10 @@ This repository contains solution for the free SQL challenges posted on DataLemu
 | 14 | [IBM db2 Product Analytics]([https://datalemur.com/questions/sql-ibm-db2-product-analytics]) | [Solution](/Solutions/Easy/14_IBM_db2_Product_Analytics.sql)
 | 15 | [Cards Issued Difference]([https://datalemur.com/questions/cards-issued-difference]) | [Solution](/Solutions/Easy/15_Cards_Issued_Difference.sql)
 | 16 | [Compressed Mean]([https://datalemur.com/questions/alibaba-compressed-mean]) | [Solution](/Solutions/Easy/16_Compressed_Mean.sql)
+| 17 | [Pharmacy Analytics Part 1]([https://datalemur.com/questions/top-profitable-drugs]) | [Solution](/Solutions/Easy/17_Pharmacy_Analytics_Part_1.sql)
+| 18 | [Pharmacy Analytics Part 2]([https://datalemur.com/questions/non-profitable-drugs]) | [Solution](/Solutions/Easy/18_Pharmacy_Analytics_Part_2.sql)
+| 19 | [Pharmacy Analytics Part 3]([https://datalemur.com/questions/total-drugs-sales]) | [Solution](/Solutions/Easy/19_Pharmacy_Analytics_Part_3.sql)
+| 20 | [Patient Support Analytics (Part 1)]([https://datalemur.com/questions/frequent-callers]) | [Solution](/Solutions/Easy/20_Patient_Support_Analytics.sql)
 
 
 #### Difficulty Level : Hard
