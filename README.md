@@ -33,7 +33,9 @@ This repository contains solution for the free SQL challenges posted on DataLemu
 | ID | Challenge | Solution Script |
 |:------:|------------|:---------:|
 | 01 | [User's Third Transaction]([https://datalemur.com/questions/sql-third-transaction]) | [Solution](/Solutions/Medium/01_User's_Third_Transaction.sql)
-
+| 02 | [Second Highest Salary]([https://datalemur.com/questions/sql-second-highest-salary]) | [Solution](/Solutions/Medium/02_Second_Highest_Salary.sql)
+| 03 | [Sending vs. Opening Snaps]([https://datalemur.com/questions/time-spent-snaps]) | [Solution](/Solutions/Medium/03_Sending_vs_Opening_Snaps.sql)
+| 04 | [Tweets' Rolling Averages]([https://datalemur.com/questions/rolling-average-tweets]) | [Solution](/Solutions/Medium/04_Tweets'_Rolling_Averages.sql)
 
 #### Difficulty Level : Hard
 
