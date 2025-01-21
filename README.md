@@ -28,6 +28,12 @@ This repository contains solution for the free SQL challenges posted on DataLemu
 | 19 | [Pharmacy Analytics Part 3]([https://datalemur.com/questions/total-drugs-sales]) | [Solution](/Solutions/Easy/19_Pharmacy_Analytics_Part_3.sql)
 | 20 | [Patient Support Analytics (Part 1)]([https://datalemur.com/questions/frequent-callers]) | [Solution](/Solutions/Easy/20_Patient_Support_Analytics.sql)
 
+#### Difficulty Level : Medium
+
+| ID | Challenge | Solution Script |
+|:------:|------------|:---------:|
+| 01 | [User's Third Transaction]([https://datalemur.com/questions/sql-third-transaction]) | [Solution](/Solutions/Medium/01_User's_Third_Transaction.sql)
+
 
 #### Difficulty Level : Hard
 
