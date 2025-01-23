@@ -36,6 +36,15 @@ This repository contains solution for the free SQL challenges posted on DataLemu
 | 02 | [Second Highest Salary](https://datalemur.com/questions/sql-second-highest-salary) | [Solution](/Solutions/Medium/02_Second_Highest_Salary.sql)
 | 03 | [Sending vs. Opening Snaps](https://datalemur.com/questions/time-spent-snaps) | [Solution](/Solutions/Medium/03_Sending_vs_Opening_Snaps.sql)
 | 04 | [Tweets' Rolling Averages](https://datalemur.com/questions/rolling-average-tweets) | [Solution](/Solutions/Medium/04_Tweets'_Rolling_Averages.sql)
+| 05 | [Highest Grossing Items](https://datalemur.com/questions/sql-highest-grossing) | [Solution](/Solutions/Medium/05_Highest_Grossing_Items.sql)
+| 06 | [Top 3 Salaries](https://datalemur.com/questions/sql-top-three-salaries) | [Solution](/Solutions/Medium/06_Top_Three_Salaries.sql)
+| 07 | [Top 5 Artists](https://datalemur.com/questions/top-fans-rank) | [Solution](/Solutions/Medium/07_Top_5_Artists.sql)
+| 08 | [Signup Activation Rate](https://datalemur.com/questions/signup-confirmation-rate) | [Solution](/Solutions/Medium/08_Signup_Activation_Rate.sql)
+| 09 | [Supercloud Customer](https://datalemur.com/questions/supercloud-customer) | [Solution](/Solutions/Medium/09_Supercloud_Customer.sql)
+| 10 | [Odd and Even Measurements](https://datalemur.com/questions/odd-even-measurements) | [Solution](/Solutions/Medium/10_Odd_and_Even_Measurements.sql)
+| 11 | [Swapped Food Delivery](https://datalemur.com/questions/sql-swapped-food-delivery) | [Solution](/Solutions/Medium/11_Swapped_Food_Delivery.sql)
+| 12 | [FAANG Stock Min-Max Part 1](https://datalemur.com/questions/sql-bloomberg-stock-min-max-1) | [Solution](/Solutions/Medium/12_FAANG_Stock_Min-Max_Part_1.sql)
+
 
 #### Difficulty Level : Hard
 
