@@ -1,1 +1,18 @@
---Will solve later
+--A poorly formulated question. Have to make a lot of assumptions.
+WITH CTE AS
+(SELECT 
+SUM(CASE WHEN ITEM_TYPE = 'not_prime' THEN 1 ELSE 0 END) N_PRIME,
+SUM(CASE WHEN ITEM_TYPE = 'prime_eligible' THEN 1 ELSE 0 END) PRIME,
+SUM(CASE WHEN ITEM_TYPE = 'not_prime' THEN SQUARE_FOOTAGE END) SUM_NP,
+SUM(CASE WHEN ITEM_TYPE = 'prime_eligible' THEN SQUARE_FOOTAGE END) SUM_P
+FROM INVENTORY)
+
+SELECT 
+'prime_eligible',
+TRUNC(500000/SUM_P,0)*PRIME PRIME_ITEMS
+FROM CTE
+UNION ALL
+SELECT 
+'not_prime',
+TRUNC((500000-TRUNC(500000/SUM_P,0)*SUM_P)/SUM_NP, 0)*N_PRIME NP_ITEMS
+FROM CTE
